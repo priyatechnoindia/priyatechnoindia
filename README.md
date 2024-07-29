@@ -2,7 +2,7 @@
 - 👀 My Name is Priya Singh
 - 🌱 I’m Student
 - 💞️ I’m From Kolkata in India
-- 📫 currently learning in TECHNO INDIA UNIVERSITY
+- 📫 I'm Currently learning in TECHNO INDIA UNIVERSITY
 - ⚡ This is My Github Account.
 
 <!---
